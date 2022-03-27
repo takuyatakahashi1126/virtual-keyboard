@@ -10,3 +10,11 @@
     transition: bottom 0.4s;
     height: 100px;
 }
+
+.keyboard--hidden {
+    bottom: -100%;
+}
+
+.keyboard__keys {
+    text-align: center;
+}
